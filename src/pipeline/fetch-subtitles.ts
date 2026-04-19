@@ -10,6 +10,30 @@ export const LANG_PRIORITY = ["zh-Hans", "zh-CN", "zh-Hant", "zh-TW", "zh"] as c
  * 下载一个视频的字幕到 rawSubtitlesDir，info.json 到 rawVideoInfoDir。
  * 不下视频本体。返回挑选后的最佳字幕轨；若无可用字幕则返回 null。
  */
+export function buildFetchArgs(url: string, subsTemplate: string, infoTemplate: string): string[] {
+  return [
+    "--skip-download",
+    "--write-subs",
+    "--write-auto-subs",
+    "--write-info-json",
+    "--sub-langs",
+    LANG_PRIORITY.join(","),
+    "--sub-format",
+    "vtt",
+    "--no-warnings",
+    "--no-progress",
+    // 同 list-videos：让 info.json 的 title/description 保持博主繁中原版。
+    // yt-dlp 只接受 YouTube 自家的 lang code（zh-TW / zh-CN / zh-HK），不认 BCP47 zh-Hant。
+    "--extractor-args",
+    "youtube:lang=zh-TW",
+    "-o",
+    `subtitle:${subsTemplate}`,
+    "-o",
+    `infojson:${infoTemplate}`,
+    url,
+  ];
+}
+
 export async function fetchSubtitles(
   video: VideoMeta,
   rawSubtitlesDir: string,
@@ -21,23 +45,7 @@ export async function fetchSubtitles(
   const subsTemplate = join(rawSubtitlesDir, "%(id)s.%(ext)s");
   const infoTemplate = join(rawVideoInfoDir, "%(id)s.%(ext)s");
 
-  const args = [
-    "--skip-download",
-    "--write-subs",
-    "--write-auto-subs",
-    "--write-info-json",
-    "--sub-langs",
-    LANG_PRIORITY.join(","),
-    "--sub-format",
-    "vtt",
-    "--no-warnings",
-    "--no-progress",
-    "-o",
-    `subtitle:${subsTemplate}`,
-    "-o",
-    `infojson:${infoTemplate}`,
-    video.url,
-  ];
+  const args = buildFetchArgs(video.url, subsTemplate, infoTemplate);
 
   await withRetry(() => ytDlpRun(args), { attempts: 3, baseDelayMs: 1500 });
 

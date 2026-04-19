@@ -9,14 +9,22 @@ import { formatUploadDate } from "../lib/paths.ts";
  * 使用 --flat-playlist 避免对每个视频发起独立请求，速度快。
  * 注意：flat-playlist 下 upload_date/duration 可能缺失，后续下字幕时再补。
  */
-export async function listLiveStreams(channelStreamsUrl: string): Promise<VideoMeta[]> {
-  const args = [
+export function buildListArgs(channelStreamsUrl: string): string[] {
+  return [
     "--flat-playlist",
     "--dump-json",
     "--ignore-errors",
     "--no-warnings",
+    // YouTube 会按客户端语言自动翻译标题；强制 hl=zh-TW，拿到博主原始繁中标题。
+    // 注意：yt-dlp 此处只接受 YouTube 自家的 lang code（zh-TW / zh-CN / zh-HK），不认 BCP47。
+    "--extractor-args",
+    "youtube:lang=zh-TW",
     channelStreamsUrl,
   ];
+}
+
+export async function listLiveStreams(channelStreamsUrl: string): Promise<VideoMeta[]> {
+  const args = buildListArgs(channelStreamsUrl);
 
   const videos: VideoMeta[] = [];
   for await (const raw of ytDlpJsonLines(args)) {
