@@ -6421,17 +6421,24 @@
       "subtitleSource": "manual",
       "downloadedAt": "2026-04-19T06:45:26.630Z",
       "pipelineVersion": "1.0.0"
+    },
+    "oVlgyWMtCQ0": {
+      "title": "2024/5/2(四)鮑爾放鴿?6月放緩QT!台Q1GDP衝6.5% 復甦穩定?【早晨財經速解讀】",
+      "url": "https://www.youtube.com/watch?v=oVlgyWMtCQ0",
+      "uploadDate": "2024-05-02",
+      "duration": 2141,
+      "processedPath": "processed/transcripts/oVlgyWMtCQ0.json",
+      "markdownPath": "corpus/markdown/2024/2024-05/2024-05-02_2024_5_2(四)鮑爾放鴿_6月放緩QT!台Q1GDP衝6.5% 復甦穩定_【早晨財經速解讀】.md",
+      "subtitleLang": "zh-TW",
+      "subtitleSource": "manual",
+      "downloadedAt": "2026-04-19T07:57:33.247Z",
+      "pipelineVersion": "1.0.0"
     }
   },
   "skipped": {
     "kbxyT5klbsc": {
       "reason": "no-subtitles",
       "lastTriedAt": "2026-04-19T03:55:29.406Z"
-    },
-    "oVlgyWMtCQ0": {
-      "reason": "fetch-failed",
-      "lastTriedAt": "2026-04-19T06:43:02.880Z",
-      "message": "yt-dlp exited with code 1"
     },
     "A-7E9GgEkSk": {
       "reason": "no-subtitles",
@@ -8258,5 +8265,5 @@
       "lastTriedAt": "2026-04-19T07:06:53.370Z"
     }
   },
-  "lastRun": "2026-04-19T07:43:08.115Z"
+  "lastRun": "2026-04-19T07:57:33.247Z"
 }
