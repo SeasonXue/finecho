@@ -5,12 +5,13 @@ import { channelPaths } from "../lib/paths.ts";
 import { pLimit } from "../lib/concurrency.ts";
 import * as log from "../lib/logger.ts";
 import {
+  ensureChannelJson,
   isProcessed,
-  isSkipped,
   loadManifest,
   markProcessed,
   markSkipped,
   saveManifest,
+  shouldRetrySkipped,
 } from "../lib/manifest.ts";
 import { getChannel } from "../channels.ts";
 import { listLiveStreams, writeVideosJsonl } from "../pipeline/list-videos.ts";
@@ -36,14 +37,7 @@ export async function runFetch(opts: FetchOptions): Promise<void> {
   const paths = channelPaths(channel.slug);
   await mkdir(paths.base, { recursive: true });
 
-  await Bun.write(
-    paths.channelJson,
-    JSON.stringify(
-      { slug: channel.slug, name: channel.name, url: channel.url, firstSeenAt: new Date().toISOString() },
-      null,
-      2,
-    ) + "\n",
-  );
+  await ensureChannelJson(paths.channelJson, channel);
 
   log.info(`[${channel.slug}] listing live streams …`);
   const videos = await listLiveStreams(channel.url);
@@ -52,16 +46,29 @@ export async function runFetch(opts: FetchOptions): Promise<void> {
 
   const manifest = await loadManifest(paths.manifestJson, channel.url, channel.slug);
 
+  const now = new Date();
   const todo: VideoMeta[] = [];
+  let retrying = 0;
   for (const v of videos) {
-    if (!opts.force && (isProcessed(manifest, v.id) || isSkipped(manifest, v.id))) continue;
+    if (opts.force) {
+      todo.push(v);
+      continue;
+    }
+    if (isProcessed(manifest, v.id)) continue;
+    const skipped = manifest.skipped[v.id];
+    if (skipped) {
+      if (!shouldRetrySkipped(skipped, now)) continue;
+      retrying++;
+    }
     todo.push(v);
   }
   if (opts.limit != null) todo.splice(opts.limit);
 
-  log.info(`${todo.length} to process (already done: ${Object.keys(manifest.videos).length}, skipped: ${Object.keys(manifest.skipped).length})`);
+  log.info(
+    `${todo.length} to process (already done: ${Object.keys(manifest.videos).length}, skipped: ${Object.keys(manifest.skipped).length}, retrying: ${retrying})`,
+  );
   if (todo.length === 0) {
-    await saveManifest(paths.manifestJson, manifest);
+    // 没活儿干就不动 manifest 文件，避免 CI 产生"只改 lastRun"的空 commit。
     return;
   }
 
@@ -160,6 +167,7 @@ export async function runFetch(opts: FetchOptions): Promise<void> {
       }
       // persist every N items for resilience
       if ((done + skipped) % 10 === 0) {
+        manifest.lastRun = new Date().toISOString();
         await saveManifest(paths.manifestJson, manifest);
       }
     }),
@@ -167,6 +175,7 @@ export async function runFetch(opts: FetchOptions): Promise<void> {
 
   await Promise.all(tasks);
   log.progressEnd();
+  manifest.lastRun = new Date().toISOString();
   await saveManifest(paths.manifestJson, manifest);
 
   log.success(`fetch done: ${done} processed, ${skipped} skipped`);
