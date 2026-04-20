@@ -8263,7 +8263,12 @@
     "grW2XQJ2QCs": {
       "reason": "no-subtitles",
       "lastTriedAt": "2026-04-19T07:06:53.370Z"
+    },
+    "J7ARFz1MLBs": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-04-20T06:13:02.191Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-04-19T07:57:33.247Z"
+  "lastRun": "2026-04-20T06:13:02.191Z"
 }
