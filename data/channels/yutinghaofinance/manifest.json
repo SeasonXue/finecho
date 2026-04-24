@@ -8266,12 +8266,12 @@
     },
     "J7ARFz1MLBs": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-04-20T06:13:02.191Z",
+      "lastTriedAt": "2026-04-24T06:06:49.817Z",
       "message": "yt-dlp exited with code 1"
     },
     "-0PJCp6vpCM": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-04-21T06:01:15.840Z",
+      "lastTriedAt": "2026-04-24T06:06:49.378Z",
       "message": "yt-dlp exited with code 1"
     },
     "EmO-6c_f3cs": {
@@ -8283,7 +8283,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-04-23T06:04:34.521Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "oiblLZqqC2w": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-04-24T06:06:49.159Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-04-23T06:04:34.522Z"
+  "lastRun": "2026-04-24T06:06:49.817Z"
 }
