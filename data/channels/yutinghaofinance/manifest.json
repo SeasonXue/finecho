@@ -8443,7 +8443,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-06-08T08:51:55.345Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "8H0D_RYS-zQ": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-06-09T07:43:42.565Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-06-08T08:53:20.396Z"
+  "lastRun": "2026-06-09T07:43:42.565Z"
 }
