@@ -8463,7 +8463,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-06-15T10:22:08.097Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "hZdQR9FWHWw": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-06-16T09:23:39.319Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-06-15T10:23:50.483Z"
+  "lastRun": "2026-06-16T09:23:39.319Z"
 }
