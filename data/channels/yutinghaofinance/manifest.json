@@ -8533,7 +8533,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-07-06T08:17:03.158Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "vkwgbSsMB2A": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-07-07T07:34:44.649Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-07-06T08:19:20.262Z"
+  "lastRun": "2026-07-07T07:34:44.650Z"
 }
