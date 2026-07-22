@@ -8583,7 +8583,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-07-21T06:25:21.178Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "NZGYUCHpm0w": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-07-22T06:25:23.298Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-07-21T06:25:21.178Z"
+  "lastRun": "2026-07-22T06:25:23.299Z"
 }
