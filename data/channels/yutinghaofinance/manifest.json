@@ -8638,7 +8638,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-08-05T06:24:33.595Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "sk7DVOEJpig": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-08-06T06:26:12.890Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-08-05T06:24:33.595Z"
+  "lastRun": "2026-08-06T06:26:12.891Z"
 }
