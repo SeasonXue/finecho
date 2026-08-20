@@ -8695,7 +8695,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-08-19T04:32:56.887Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "LUGWERSl01s": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-08-20T04:33:30.481Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-08-19T04:32:56.887Z"
+  "lastRun": "2026-08-20T04:33:30.481Z"
 }
