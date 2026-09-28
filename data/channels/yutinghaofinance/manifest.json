@@ -6445,6 +6445,18 @@
       "subtitleSource": "manual",
       "downloadedAt": "2026-08-18T04:34:11.195Z",
       "pipelineVersion": "1.0.0"
+    },
+    "F-aMpfktiog": {
+      "title": "2026/6/22(一)美伊和平協議簽得動?油價續跌透玄機?台積衝新高 五萬點來了?【早晨財經速解讀】",
+      "url": "https://www.youtube.com/watch?v=F-aMpfktiog",
+      "uploadDate": "unknown-date",
+      "duration": 1903,
+      "processedPath": "processed/transcripts/F-aMpfktiog.json",
+      "markdownPath": "corpus/markdown/unkn/unknown/unknown-date_2026_6_22(一)美伊和平協議簽得動_油價續跌透玄機_台積衝新高 五萬點來了_【早晨財經速解讀】.md",
+      "subtitleLang": "zh-TW",
+      "subtitleSource": "manual",
+      "downloadedAt": "2026-09-28T10:32:52.351Z",
+      "pipelineVersion": "1.0.0"
     }
   },
   "skipped": {
@@ -8278,549 +8290,544 @@
     },
     "J7ARFz1MLBs": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:23.630Z",
+      "lastTriedAt": "2026-09-28T10:34:42.552Z",
       "message": "yt-dlp exited with code 1"
     },
     "-0PJCp6vpCM": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:22.630Z",
+      "lastTriedAt": "2026-09-28T10:34:41.587Z",
       "message": "yt-dlp exited with code 1"
     },
     "EmO-6c_f3cs": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:19.876Z",
+      "lastTriedAt": "2026-09-28T10:34:38.828Z",
       "message": "yt-dlp exited with code 1"
     },
     "3A6ESjwPNso": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:15.771Z",
+      "lastTriedAt": "2026-09-28T10:34:34.827Z",
       "message": "yt-dlp exited with code 1"
     },
     "oiblLZqqC2w": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:14.223Z",
+      "lastTriedAt": "2026-09-28T10:34:33.885Z",
       "message": "yt-dlp exited with code 1"
     },
     "zGc7oXv6g2s": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:11.969Z",
+      "lastTriedAt": "2026-09-28T10:34:30.934Z",
       "message": "yt-dlp exited with code 1"
     },
     "Gr-nE761T1g": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:07.967Z",
+      "lastTriedAt": "2026-09-28T10:34:27.100Z",
       "message": "yt-dlp exited with code 1"
     },
     "x8RnWlVlFCk": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:06.590Z",
+      "lastTriedAt": "2026-09-28T10:34:26.094Z",
       "message": "yt-dlp exited with code 1"
     },
     "Vv4KxYsP368": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:04.465Z",
+      "lastTriedAt": "2026-09-28T10:34:23.074Z",
       "message": "yt-dlp exited with code 1"
     },
     "oGMl5RGg-b4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:25:00.244Z",
+      "lastTriedAt": "2026-09-28T10:34:19.171Z",
       "message": "yt-dlp exited with code 1"
     },
     "yoeVEC3qw0M": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:58.798Z",
+      "lastTriedAt": "2026-09-28T10:34:18.148Z",
       "message": "yt-dlp exited with code 1"
     },
     "EP-5J6-PMiQ": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:56.840Z",
+      "lastTriedAt": "2026-09-28T10:34:15.229Z",
       "message": "yt-dlp exited with code 1"
     },
     "vw5RhJvVKgw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:51.804Z",
+      "lastTriedAt": "2026-09-28T10:34:11.181Z",
       "message": "yt-dlp exited with code 1"
     },
     "wzSQiSqD5yI": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:51.189Z",
+      "lastTriedAt": "2026-09-28T10:34:09.996Z",
       "message": "yt-dlp exited with code 1"
     },
     "QO3TRrf-EdU": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:49.222Z",
+      "lastTriedAt": "2026-09-28T10:34:07.386Z",
       "message": "yt-dlp exited with code 1"
     },
     "hH0bT4xTQGA": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:44.137Z",
+      "lastTriedAt": "2026-09-28T10:34:03.304Z",
       "message": "yt-dlp exited with code 1"
     },
     "IBAh1V8tnGw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:42.950Z",
+      "lastTriedAt": "2026-09-28T10:34:02.052Z",
       "message": "yt-dlp exited with code 1"
     },
     "m-MXDX4s6PU": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:41.307Z",
+      "lastTriedAt": "2026-09-28T10:33:58.976Z",
       "message": "yt-dlp exited with code 1"
     },
     "b5a7Uuwj5AY": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:36.470Z",
+      "lastTriedAt": "2026-09-28T10:33:55.525Z",
       "message": "yt-dlp exited with code 1"
     },
     "kWjip9m19Sk": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:35.170Z",
+      "lastTriedAt": "2026-09-28T10:33:52.853Z",
       "message": "yt-dlp exited with code 1"
     },
     "AKvxVsrqgbo": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:33.854Z",
+      "lastTriedAt": "2026-09-28T10:33:51.141Z",
       "message": "yt-dlp exited with code 1"
     },
     "CLdxlSPzjT0": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:28.644Z",
+      "lastTriedAt": "2026-09-28T10:33:47.701Z",
       "message": "yt-dlp exited with code 1"
     },
     "8C3KAvgydk4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:27.288Z",
+      "lastTriedAt": "2026-09-28T10:33:45.085Z",
       "message": "yt-dlp exited with code 1"
     },
     "_FmlrDycC0Q": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:26.082Z",
+      "lastTriedAt": "2026-09-28T10:33:43.243Z",
       "message": "yt-dlp exited with code 1"
     },
     "vydkp7c0J-I": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:20.677Z",
+      "lastTriedAt": "2026-09-28T10:33:39.816Z",
       "message": "yt-dlp exited with code 1"
     },
     "zRBJKmx5yhc": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:19.612Z",
+      "lastTriedAt": "2026-09-28T10:33:37.061Z",
       "message": "yt-dlp exited with code 1"
     },
     "HlGuKabtxg8": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:18.480Z",
+      "lastTriedAt": "2026-09-28T10:33:35.217Z",
       "message": "yt-dlp exited with code 1"
     },
     "SfqY8huMo6s": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:13.202Z",
+      "lastTriedAt": "2026-09-28T10:33:31.785Z",
       "message": "yt-dlp exited with code 1"
     },
     "GInmiVMEfj8": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:11.974Z",
+      "lastTriedAt": "2026-09-28T10:33:28.339Z",
       "message": "yt-dlp exited with code 1"
     },
     "yHeeo028C5U": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:10.756Z",
+      "lastTriedAt": "2026-09-28T10:33:27.435Z",
       "message": "yt-dlp exited with code 1"
     },
     "TD0fj4qbudw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:05.604Z",
+      "lastTriedAt": "2026-09-28T10:33:23.993Z",
       "message": "yt-dlp exited with code 1"
     },
     "uQKqbzuhTvA": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:04.150Z",
+      "lastTriedAt": "2026-09-28T10:33:20.373Z",
       "message": "yt-dlp exited with code 1"
     },
     "nE4skCdVuU4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:24:02.894Z",
+      "lastTriedAt": "2026-09-28T10:33:19.559Z",
       "message": "yt-dlp exited with code 1"
     },
     "L5uss3pVph8": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:57.674Z",
+      "lastTriedAt": "2026-09-28T10:33:15.992Z",
       "message": "yt-dlp exited with code 1"
     },
     "khYmfQdjw7U": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:56.418Z",
+      "lastTriedAt": "2026-09-28T10:33:12.295Z",
       "message": "yt-dlp exited with code 1"
     },
     "8H0D_RYS-zQ": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:54.955Z",
+      "lastTriedAt": "2026-09-28T10:33:11.454Z",
       "message": "yt-dlp exited with code 1"
     },
     "xnznLLQLnig": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:49.691Z",
+      "lastTriedAt": "2026-09-28T10:33:08.099Z",
       "message": "yt-dlp exited with code 1"
     },
     "LO2G4LmHXVk": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:48.736Z",
+      "lastTriedAt": "2026-09-28T10:33:04.114Z",
       "message": "yt-dlp exited with code 1"
     },
     "BOQUeDK0B7I": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:47.527Z",
+      "lastTriedAt": "2026-09-28T10:33:03.589Z",
       "message": "yt-dlp exited with code 1"
     },
     "hZdQR9FWHWw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:41.946Z",
+      "lastTriedAt": "2026-09-28T10:33:00.330Z",
       "message": "yt-dlp exited with code 1"
     },
     "Khm3HtdrHQk": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:41.001Z",
+      "lastTriedAt": "2026-09-28T10:32:56.240Z",
       "message": "yt-dlp exited with code 1"
     },
     "eL--HDhT-mo": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:39.605Z",
-      "message": "yt-dlp exited with code 1"
-    },
-    "F-aMpfktiog": {
-      "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:33.934Z",
+      "lastTriedAt": "2026-09-28T10:32:55.720Z",
       "message": "yt-dlp exited with code 1"
     },
     "ZOaJ61xMrhM": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:33.225Z",
+      "lastTriedAt": "2026-09-28T10:32:48.230Z",
       "message": "yt-dlp exited with code 1"
     },
     "2Z9hMGktBDU": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:31.790Z",
+      "lastTriedAt": "2026-09-28T10:32:47.740Z",
       "message": "yt-dlp exited with code 1"
     },
     "IMOmns5Ii4Q": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:26.283Z",
+      "lastTriedAt": "2026-09-28T10:32:47.356Z",
       "message": "yt-dlp exited with code 1"
     },
     "Z7U5YQRlz68": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:25.368Z",
+      "lastTriedAt": "2026-09-28T10:32:40.231Z",
       "message": "yt-dlp exited with code 1"
     },
     "9_PFi331Vf0": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:24.216Z",
+      "lastTriedAt": "2026-09-28T10:32:39.738Z",
       "message": "yt-dlp exited with code 1"
     },
     "tUJHLVjwvik": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:18.475Z",
+      "lastTriedAt": "2026-09-28T10:32:39.508Z",
       "message": "yt-dlp exited with code 1"
     },
     "ENvg_6WIu6Y": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:17.883Z",
+      "lastTriedAt": "2026-09-28T10:32:31.897Z",
       "message": "yt-dlp exited with code 1"
     },
     "m63qGxdXYz8": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:16.537Z",
+      "lastTriedAt": "2026-09-28T10:32:31.836Z",
       "message": "yt-dlp exited with code 1"
     },
     "wQ9YZ1U2bcY": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:10.670Z",
+      "lastTriedAt": "2026-09-28T10:32:31.405Z",
       "message": "yt-dlp exited with code 1"
     },
     "-VFQHTRVBws": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:10.046Z",
+      "lastTriedAt": "2026-09-28T10:32:23.838Z",
       "message": "yt-dlp exited with code 1"
     },
     "vkwgbSsMB2A": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:08.262Z",
+      "lastTriedAt": "2026-09-28T10:32:23.838Z",
       "message": "yt-dlp exited with code 1"
     },
     "SqtWyR-vASQ": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:02.164Z",
+      "lastTriedAt": "2026-09-28T10:32:23.279Z",
       "message": "yt-dlp exited with code 1"
     },
     "yl-S5OVnu2o": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:02.207Z",
+      "lastTriedAt": "2026-09-28T10:32:15.885Z",
       "message": "yt-dlp exited with code 1"
     },
     "n0sH57wGfU0": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:23:00.620Z",
+      "lastTriedAt": "2026-09-28T10:32:15.712Z",
       "message": "yt-dlp exited with code 1"
     },
     "K7uzlljSjCc": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:54.223Z",
+      "lastTriedAt": "2026-09-28T10:32:15.322Z",
       "message": "yt-dlp exited with code 1"
     },
     "raHycpE_6Z4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:54.176Z",
+      "lastTriedAt": "2026-09-28T10:32:07.957Z",
       "message": "yt-dlp exited with code 1"
     },
     "EyDBTfobiQk": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:52.985Z",
+      "lastTriedAt": "2026-09-28T10:32:07.532Z",
       "message": "yt-dlp exited with code 1"
     },
     "rQijt4k7pq4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:46.521Z",
+      "lastTriedAt": "2026-09-28T10:32:07.422Z",
       "message": "yt-dlp exited with code 1"
     },
     "iE03-xLfFwU": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:46.494Z",
+      "lastTriedAt": "2026-09-28T10:32:00.076Z",
       "message": "yt-dlp exited with code 1"
     },
     "u8FPyPqaESA": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:45.311Z",
+      "lastTriedAt": "2026-09-28T10:31:59.691Z",
       "message": "yt-dlp exited with code 1"
     },
     "NZGYUCHpm0w": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:38.710Z",
+      "lastTriedAt": "2026-09-28T10:31:59.545Z",
       "message": "yt-dlp exited with code 1"
     },
     "HXHxiiYjKFY": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:38.633Z",
+      "lastTriedAt": "2026-09-28T10:31:52.388Z",
       "message": "yt-dlp exited with code 1"
     },
     "_m4TSQiYZi4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:37.747Z",
+      "lastTriedAt": "2026-09-28T10:31:51.984Z",
       "message": "yt-dlp exited with code 1"
     },
     "sMSDQyQANIM": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:30.686Z",
+      "lastTriedAt": "2026-09-28T10:31:51.502Z",
       "message": "yt-dlp exited with code 1"
     },
     "vxCO-f4F3BA": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:31.110Z",
+      "lastTriedAt": "2026-09-28T10:31:44.349Z",
       "message": "yt-dlp exited with code 1"
     },
     "C8bYSy7FLIc": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:29.855Z",
+      "lastTriedAt": "2026-09-28T10:31:43.864Z",
       "message": "yt-dlp exited with code 1"
     },
     "g4Z6z8cUhBc": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:22.903Z",
+      "lastTriedAt": "2026-09-28T10:31:43.719Z",
       "message": "yt-dlp exited with code 1"
     },
     "7RUZWygQDvE": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:22.470Z",
+      "lastTriedAt": "2026-09-28T10:31:36.141Z",
       "message": "yt-dlp exited with code 1"
     },
     "bi09ZJ7kOC4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:21.752Z",
+      "lastTriedAt": "2026-09-28T10:31:35.929Z",
       "message": "yt-dlp exited with code 1"
     },
     "z3pq4kLE5Sw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:14.940Z",
+      "lastTriedAt": "2026-09-28T10:31:35.944Z",
       "message": "yt-dlp exited with code 1"
     },
     "NspN81zjSzw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:14.414Z",
+      "lastTriedAt": "2026-09-28T10:31:28.238Z",
       "message": "yt-dlp exited with code 1"
     },
     "sk7DVOEJpig": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:14.085Z",
+      "lastTriedAt": "2026-09-28T10:31:27.896Z",
       "message": "yt-dlp exited with code 1"
     },
     "IHB6xZANLDc": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:07.107Z",
+      "lastTriedAt": "2026-09-28T10:31:27.767Z",
       "message": "yt-dlp exited with code 1"
     },
     "5_poweJsVBA": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:06.719Z",
+      "lastTriedAt": "2026-09-28T10:31:19.994Z",
       "message": "yt-dlp exited with code 1"
     },
     "v7TpiWK5DTQ": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:22:06.433Z",
+      "lastTriedAt": "2026-09-28T10:31:19.758Z",
       "message": "yt-dlp exited with code 1"
     },
     "ApykW90PQ58": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:58.988Z",
+      "lastTriedAt": "2026-09-28T10:31:20.263Z",
       "message": "yt-dlp exited with code 1"
     },
     "KS_BkfqfALI": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:58.804Z",
+      "lastTriedAt": "2026-09-28T10:31:11.885Z",
       "message": "yt-dlp exited with code 1"
     },
     "oLPxNHRAPEI": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:59.200Z",
+      "lastTriedAt": "2026-09-28T10:31:12.020Z",
       "message": "yt-dlp exited with code 1"
     },
     "OJ5vxmwQrE0": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:50.947Z",
+      "lastTriedAt": "2026-09-28T10:31:11.781Z",
       "message": "yt-dlp exited with code 1"
     },
     "aRPmzQfTLFc": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:51.229Z",
+      "lastTriedAt": "2026-09-28T10:31:03.559Z",
       "message": "yt-dlp exited with code 1"
     },
     "9VqNpjPGmbM": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:50.882Z",
+      "lastTriedAt": "2026-09-28T10:31:03.667Z",
       "message": "yt-dlp exited with code 1"
     },
     "LUGWERSl01s": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:43.355Z",
+      "lastTriedAt": "2026-09-28T10:31:03.759Z",
       "message": "yt-dlp exited with code 1"
     },
     "ajjRvohk-Og": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:43.341Z",
+      "lastTriedAt": "2026-09-28T10:30:55.653Z",
       "message": "yt-dlp exited with code 1"
     },
     "dFYqrIQIMvw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:42.819Z",
+      "lastTriedAt": "2026-09-28T10:30:55.415Z",
       "message": "yt-dlp exited with code 1"
     },
     "tLvKGHyxhd8": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:35.835Z",
+      "lastTriedAt": "2026-09-28T10:30:55.551Z",
       "message": "yt-dlp exited with code 1"
     },
     "KUZC2NyCCCY": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:35.522Z",
+      "lastTriedAt": "2026-09-28T10:30:47.960Z",
       "message": "yt-dlp exited with code 1"
     },
     "lDeHFopOfIs": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:35.146Z",
+      "lastTriedAt": "2026-09-28T10:30:47.504Z",
       "message": "yt-dlp exited with code 1"
     },
     "rTnPsm_gAhA": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:28.171Z",
+      "lastTriedAt": "2026-09-28T10:30:46.459Z",
       "message": "yt-dlp exited with code 1"
     },
     "BxtHhc6P1n0": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:27.738Z",
+      "lastTriedAt": "2026-09-28T10:30:40.071Z",
       "message": "yt-dlp exited with code 1"
     },
     "XY31kO-V0Q4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:27.502Z",
+      "lastTriedAt": "2026-09-28T10:30:39.392Z",
       "message": "yt-dlp exited with code 1"
     },
     "fpX071E5yI4": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:20.410Z",
+      "lastTriedAt": "2026-09-28T10:30:38.775Z",
       "message": "yt-dlp exited with code 1"
     },
     "R15MWKzLJpE": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:19.995Z",
+      "lastTriedAt": "2026-09-28T10:30:32.001Z",
       "message": "yt-dlp exited with code 1"
     },
     "6weg9-YmGVs": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:19.672Z",
+      "lastTriedAt": "2026-09-28T10:30:31.432Z",
       "message": "yt-dlp exited with code 1"
     },
     "c4IT1Mwb_Pg": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:12.543Z",
+      "lastTriedAt": "2026-09-28T10:30:31.060Z",
       "message": "yt-dlp exited with code 1"
     },
     "O0JBTLUGnQ0": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:12.302Z",
+      "lastTriedAt": "2026-09-28T10:30:23.972Z",
       "message": "yt-dlp exited with code 1"
     },
     "b2MbRUsIaU8": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:11.841Z",
+      "lastTriedAt": "2026-09-28T10:30:23.589Z",
       "message": "yt-dlp exited with code 1"
     },
     "cOTLqoaHBxE": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:04.322Z",
+      "lastTriedAt": "2026-09-28T10:30:23.259Z",
       "message": "yt-dlp exited with code 1"
     },
     "mhVVuuWUhCw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:04.901Z",
+      "lastTriedAt": "2026-09-28T10:30:15.682Z",
       "message": "yt-dlp exited with code 1"
     },
     "FtPa8H718To": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:21:03.931Z",
+      "lastTriedAt": "2026-09-28T10:30:15.281Z",
       "message": "yt-dlp exited with code 1"
     },
     "KNWS5tp0HYc": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:20:56.491Z",
+      "lastTriedAt": "2026-09-28T10:30:15.509Z",
       "message": "yt-dlp exited with code 1"
     },
     "wmu1GS07BMo": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:20:56.394Z",
+      "lastTriedAt": "2026-09-28T10:30:07.349Z",
       "message": "yt-dlp exited with code 1"
     },
     "TQ_oEc9vnB8": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:20:56.128Z",
+      "lastTriedAt": "2026-09-28T10:30:07.069Z",
       "message": "yt-dlp exited with code 1"
     },
     "Ulz539c38mw": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:20:48.410Z",
+      "lastTriedAt": "2026-09-28T10:30:06.793Z",
       "message": "yt-dlp exited with code 1"
     },
     "EJdsmRgakkU": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:20:48.754Z",
+      "lastTriedAt": "2026-09-28T10:29:59.335Z",
       "message": "yt-dlp exited with code 1"
     },
     "U4RH_CPe3GQ": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-25T09:20:48.326Z",
+      "lastTriedAt": "2026-09-28T10:29:58.924Z",
       "message": "yt-dlp exited with code 1"
     },
     "Xlj2cBFC7_s": {
       "reason": "fetch-failed",
-      "lastTriedAt": "2026-09-23T09:02:29.100Z",
+      "lastTriedAt": "2026-09-28T10:29:59.243Z",
       "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-09-25T09:25:23.630Z"
+  "lastRun": "2026-09-28T10:34:42.552Z"
 }
