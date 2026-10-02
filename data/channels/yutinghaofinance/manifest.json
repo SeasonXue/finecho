@@ -8842,7 +8842,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-10-01T10:42:12.952Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "BTBH4-RZZXg": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-10-02T10:17:27.092Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-10-01T10:47:02.542Z"
+  "lastRun": "2026-10-02T10:17:27.092Z"
 }
