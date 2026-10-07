@@ -8857,7 +8857,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-10-06T10:59:46.570Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "wM7uDRpaC-g": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-10-07T10:49:43.189Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-10-06T10:59:46.571Z"
+  "lastRun": "2026-10-07T10:49:43.189Z"
 }
