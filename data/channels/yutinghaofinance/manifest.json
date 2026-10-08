@@ -8862,7 +8862,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-10-07T10:49:43.189Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "_dfkO0oKRvg": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-10-08T11:07:27.848Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-10-07T10:49:43.189Z"
+  "lastRun": "2026-10-08T11:07:27.849Z"
 }
