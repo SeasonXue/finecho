@@ -8977,7 +8977,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-11-02T11:58:31.591Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "0ekTT_culAY": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-11-03T11:35:07.487Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-11-02T12:03:55.918Z"
+  "lastRun": "2026-11-03T11:35:07.487Z"
 }
