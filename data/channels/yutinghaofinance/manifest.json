@@ -9007,7 +9007,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-11-10T12:03:47.070Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "FjcRUxUZ290": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-11-11T11:40:00.282Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-11-10T12:03:47.071Z"
+  "lastRun": "2026-11-11T11:40:00.282Z"
 }
