@@ -9032,7 +9032,12 @@
       "reason": "fetch-failed",
       "lastTriedAt": "2026-11-17T12:44:25.731Z",
       "message": "yt-dlp exited with code 1"
+    },
+    "Bku5I3LcgSY": {
+      "reason": "fetch-failed",
+      "lastTriedAt": "2026-11-18T12:36:33.090Z",
+      "message": "yt-dlp exited with code 1"
     }
   },
-  "lastRun": "2026-11-17T12:44:25.731Z"
+  "lastRun": "2026-11-18T12:36:33.090Z"
 }
